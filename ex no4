@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "sk.xsl"?>
+<class>
+<book id = "111">
+<bookname>2states</bookname>
+<author>Chetan Bhagat</author>
+<price>400</price>
+</book>
+<book id = "222">
+<bookname>Harry potter</bookname>
+<author>J.K Rowling</author>
+<price>100</price>
+</book>
+<book id = "333">
+<bookname>Half Girlfriend</bookname>
+<author>mohit suri</author>
+<price>350</price>
+</book>
+</class>
