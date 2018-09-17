@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "bk.xsl"?>
+<class>
+<book id = "111">
+<bookname>2states</bookname>
+<author>chetan bhagat</author>
+</book>
+<book id = "222">
+<bookname>Harry potter</bookname>
+<author>J.K Rowling</author>
+</book>
+<book id = "333">
+<bookname>Half Girlfriend</bookname>
+<author>mohit suri</author>
+</book>
+</class>
