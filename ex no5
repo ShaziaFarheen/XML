@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "cd.xsl"?>
+<catalog>
+  <cd>
+    <name>Shazia</name>
+    <dept>IT</dept>
+    <id>100</id>
+  </cd>
+  <cd>
+    <name>Anirudh</name>
+    <dept>CSE</dept>
+    <id>200</id>
+  </cd>
+  <cd>
+    <name>Balaji</name>
+    <dept>EEE</dept>
+    <id>300</id>
+  </cd>
+</catalog>
